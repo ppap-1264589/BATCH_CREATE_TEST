@@ -13,3 +13,12 @@ Do cái file Batch kia giải thích khá là dài dòng nên mình quyết đ�
 - Khi chạy trình sinh test, chỉ cần click đúp chuột vào file `create.bat` là xong
 
 - Kết quả bạn có được sẽ là một bộ test nằm trong folder `Task`
+
+## Ví dụ cụ thể
+
+Bài toán: cho một số `n`, yêu cầu tách `n` thành hai số `a` và `b`, sao cho `a + b = n`
+
+```
+A.cpp: Bài làm
+gen.cpp: Trình sinh test
+```
